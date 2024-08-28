@@ -1,4 +1,4 @@
-# Programming VTuber Logos (Windows)
+# Programming VTuber Logos for Windows
 
 Everything here shares the same principle as the [main repo](https://github.com/Aikoyori/ProgrammingVTuberLogos) by [Aikoyori](https://github.com/Aikoyori), so don't use anything here comercially.
 
